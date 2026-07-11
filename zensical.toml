@@ -39,3 +39,4 @@ scheme = "default"
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
+brew install git-secrets
